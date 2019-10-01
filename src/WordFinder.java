@@ -1,3 +1,9 @@
+/*
+Program that finds words hidden in a grid
+Created: 28/02/2019
+Author: Borislav Kolev
+*/
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.util.ArrayList;
